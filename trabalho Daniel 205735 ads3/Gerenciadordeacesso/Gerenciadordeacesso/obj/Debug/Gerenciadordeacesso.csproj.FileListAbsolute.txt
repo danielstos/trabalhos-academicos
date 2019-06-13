@@ -1,0 +1,67 @@
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe.config
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.pdb
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form1.resources
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Properties.Resources.resources
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.exe
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.pdb
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form2.resources
+C:\Users\danie\source\repos\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CopyComplete
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe.config
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.pdb
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csprojAssemblyReference.cache
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form1.resources
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form2.resources
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Properties.Resources.resources
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.GenerateResource.cache
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CoreCompileInputs.cache
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.exe
+E:\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.pdb
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe.config
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.exe
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.pdb
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form1.resources
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form2.resources
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Properties.Resources.resources
+I:\Nova pasta\Nova pasta\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe.config
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.pdb
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form1.resources
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form2.resources
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Properties.Resources.resources
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CopyComplete
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.exe
+C:\Users\danie\Desktop\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.pdb
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe.config
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.exe
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.pdb
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.pdb
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csprojResolveAssemblyReference.cache
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form1.resources
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form2.resources
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Properties.Resources.resources
+I:\bd\projectx\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe.config
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.exe
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\Gerenciadordeacesso.pdb
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form1.resources
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Form2.resources
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.Properties.Resources.resources
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.csproj.CopyComplete
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.exe
+C:\Users\danie\Desktop\Nova pasta (4)\Gerenciadordeacesso\Gerenciadordeacesso\obj\Debug\Gerenciadordeacesso.pdb
