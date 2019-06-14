@@ -127,3 +127,13 @@ C:\Users\danie\Desktop\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrof
 C:\Users\danie\Desktop\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.csproj.CoreCompileInputs.cache
 C:\Users\danie\Desktop\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.exe
 C:\Users\danie\Desktop\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.pdb
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\bin\Debug\Cadastrofuncionario.exe.config
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\bin\Debug\Cadastrofuncionario.exe
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\bin\Debug\Cadastrofuncionario.pdb
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.csprojAssemblyReference.cache
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.Form1.resources
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.Properties.Resources.resources
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.csproj.GenerateResource.cache
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.csproj.CoreCompileInputs.cache
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.exe
+C:\Users\danie\trabalhos-academicos\trabalho Daniel 205735 ads3\Cadastrofuncionario\Cadastrofuncionario\obj\Debug\Cadastrofuncionario.pdb

@@ -190,8 +190,28 @@ username= SYSDBA; password = masterkey";
             conn.Close();
         }
 
-        
+        private void txtid_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+             || e.KeyChar == 46 ? false : true;
+        }
 
-       
+        private void txtsenha_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+             || e.KeyChar == 46 ? false : true;
+        }
+
+        private void txtnovoid_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+             || e.KeyChar == 46 ? false : true;
+        }
+
+        private void txtnovasenha_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+             || e.KeyChar == 46 ? false : true;
+        }
     }
 }

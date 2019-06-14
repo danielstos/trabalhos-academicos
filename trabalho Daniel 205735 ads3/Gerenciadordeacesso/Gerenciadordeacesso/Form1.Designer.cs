@@ -75,6 +75,7 @@
             this.txtsenha.PasswordChar = '*';
             this.txtsenha.Size = new System.Drawing.Size(252, 35);
             this.txtsenha.TabIndex = 2;
+            this.txtsenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtsenha_KeyPress);
             // 
             // label2
             // 

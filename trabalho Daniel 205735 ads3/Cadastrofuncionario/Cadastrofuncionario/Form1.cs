@@ -247,8 +247,7 @@ namespace Cadastrofuncionario
                 dataGridView1.DataMember = "funcionarios"; //especifica nome da base para grid
                 btnlimpar_Click(btnlimpar, e);
                 conn.Close(); //fecha conecxao
-
-
+                
             }
             catch (FbException)
             {
@@ -272,6 +271,41 @@ namespace Cadastrofuncionario
             }
         }
 
+        private void txtid_KeyPress(object sender, KeyPressEventArgs e)
+        {
+                       
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                   || e.KeyChar == 46 ? false : true;
+        }
 
+        private void cbosalario_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                 || e.KeyChar == 46 ? false : true;
+        }
+
+        private void mskcpf_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                 || e.KeyChar == 46 ? false : true;
+        }
+
+        private void mskfone_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                 || e.KeyChar == 46 ? false : true;
+        }
+
+        private void mskadmissao_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                 || e.KeyChar == 46 ? false : true;
+        }
+
+        private void mskcep_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                 || e.KeyChar == 46 ? false : true;
+        }
     }
 }

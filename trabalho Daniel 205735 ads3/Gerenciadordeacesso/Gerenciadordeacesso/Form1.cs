@@ -87,5 +87,16 @@ namespace Gerenciadordeacesso
         {
 
         }
+
+        private void txtsenha_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            if (e.KeyChar == 13)
+            {
+                button1_Click(button1, e);
+            }
+            e.Handled = char.IsNumber(e.KeyChar) || e.KeyChar == 8
+                   || e.KeyChar == 46 ? false : true;
+        }
     }
 }
